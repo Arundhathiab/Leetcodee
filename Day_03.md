@@ -1,8 +1,8 @@
-# 📅 Day 03 – LeetCode Practice
+#  Day 03 – LeetCode Practice
 
 ---
 
-## 🧩 Problem 1: Fizz Buzz
+## Problem 1: Fizz Buzz
 🔗 https://leetcode.com/problems/fizz-buzz/
 
 ### 💡 Approach:
@@ -32,7 +32,7 @@ class Solution(object):
 
 ---
 
-## 🧩 Problem 2: Smallest Even Multiple
+##  Problem 2: Smallest Even Multiple
 🔗 https://leetcode.com/problems/smallest-even-multiple/
 
 ### 💡 Approach:
@@ -52,7 +52,7 @@ class Solution(object):
 
 ---
 
-## 🧩 Problem 3: Convert the Temperature
+## Problem 3: Convert the Temperature
 🔗 https://leetcode.com/problems/convert-the-temperature/
 
 ### 💡 Approach:
@@ -74,7 +74,7 @@ class Solution(object):
 
 ---
 
-## 📊 Day 03 Summary:
+##  Day 03 Summary:
 
 - Problems Solved Today: 3
 - Difficulty: Easy
