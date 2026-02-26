@@ -8,5 +8,6 @@
 | 01 | Add Two Integers | Easy | C | ✅ |
 | 02 | Concatenation of Array | Easy | Java | ✅ |
 | 03 | Fizz Buzz + 2 more | Easy | Python | ✅ |
+| 04 | Ant on the Boundary + 2 more | Easy | Python | ✅ |
 
-Total Problems Solved: 5
+Total Problems Solved: 8
