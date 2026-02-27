@@ -9,5 +9,6 @@
 | 02 | Concatenation of Array | Easy | Java | ✅ |
 | 03 | Fizz Buzz + 2 more | Easy | Python | ✅ |
 | 04 | Ant on the Boundary + 2 more | Easy | Python | ✅ |
+| 05 | Three Divisors | Easy | Python | ✅ |
 
 Total Problems Solved: 8
