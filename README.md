@@ -11,4 +11,4 @@
 | 04 | Ant on the Boundary + 2 more | Easy | Python | ✅ |
 | 05 | Three Divisors | Easy | Python | ✅ |
 
-Total Problems Solved: 8
+Total Problems Solved: 9
