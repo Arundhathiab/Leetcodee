@@ -10,5 +10,7 @@
 | 03 | Fizz Buzz + 2 more | Easy | Python | ✅ |
 | 04 | Ant on the Boundary + 2 more | Easy | Python | ✅ |
 | 05 | Three Divisors | Easy | Python | ✅ |
+| 06 | Common Factors + GCD + Defanging IP | Easy | Python | ✅ |
 
-Total Problems Solved: 9
+
+Total Problems Solved: 12
