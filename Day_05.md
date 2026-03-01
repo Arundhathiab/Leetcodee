@@ -27,7 +27,7 @@ class Solution:
         else:
             return False
 ```
-##  Day 04 Summary:
+##  Day 05 Summary:
 
 - Problems Solved Today: 4
 - Difficulty: Easy
