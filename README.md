@@ -11,6 +11,6 @@
 | 04 | Ant on the Boundary + 2 more | Easy | Python | ✅ |
 | 05 | Three Divisors | Easy | Python | ✅ |
 | 06 | Common Factors + GCD + Defanging IP | Easy | Python | ✅ |
+| 07 | Two Sum + Minimum Number Game | Easy | Python | ✅ |
 
-
-Total Problems Solved: 12
+Total Problems Solved: 14
