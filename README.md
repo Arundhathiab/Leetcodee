@@ -12,5 +12,6 @@
 | 05 | Three Divisors | Easy | Python | ✅ |
 | 06 | Common Factors + GCD + Defanging IP | Easy | Python | ✅ |
 | 07 | Two Sum + Minimum Number Game | Easy | Python | ✅ |
+| 08 | Robot Return to Origin + To Lower Case | Easy | Python | ✅ |
 
-Total Problems Solved: 14
+Total Problems Solved: 16
