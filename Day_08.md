@@ -57,7 +57,7 @@ class Solution:
 
 ---
 
-##  Day 07 Summary:
+##  Day 08 Summary:
 
 - Problems Solved Today: 2
 - Difficulty: Easy
