@@ -13,5 +13,7 @@
 | 06 | Common Factors + GCD + Defanging IP | Easy | Python | ✅ |
 | 07 | Two Sum + Minimum Number Game | Easy | Python | ✅ |
 | 08 | Robot Return to Origin + To Lower Case | Easy | Python | ✅ |
+| 09 | Palindrome Number | Easy | Python | ✅ |
+| 10| Furthest Distance From Origin | Easy | Python | ✅ |
 
-Total Problems Solved: 16
+Total Problems Solved: 18
