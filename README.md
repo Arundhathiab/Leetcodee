@@ -15,5 +15,6 @@
 | 08 | Robot Return to Origin + To Lower Case | Easy | Python | ✅ |
 | 09 | Palindrome Number | Easy | Python | ✅ |
 | 10| Furthest Distance From Origin | Easy | Python | ✅ |
+| 11 | Subtract Product and Sum of Digits | Easy | Python | ✅ |
 
-Total Problems Solved: 18
+Total Problems Solved: 19
