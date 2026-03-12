@@ -16,5 +16,6 @@
 | 09 | Palindrome Number | Easy | Python | ✅ |
 | 10| Furthest Distance From Origin | Easy | Python | ✅ |
 | 11 | Subtract Product and Sum of Digits | Easy | Python | ✅ |
+| 12 | Difference Between Element Sum and Digit Sum | Easy | Python | ✅ |
 
-Total Problems Solved: 19
+Total Problems Solved: 20
